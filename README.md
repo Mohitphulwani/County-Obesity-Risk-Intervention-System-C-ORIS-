@@ -6,7 +6,7 @@ C-ORIS is an advanced, AI-driven dashboard designed to combat public health disp
 
 -----
 
-## 🌟 Features Overview
+## Features Overview
 
 C-ORIS provides a comprehensive analytics workflow across 7 interconnected stages:
 
@@ -19,7 +19,7 @@ C-ORIS provides a comprehensive analytics workflow across 7 interconnected stage
 | **6** | **Robust Policy Simulator (Prescriptive)** | Uses **Monte Carlo Simulation** with intelligent, directional guardrails to identify the single optimal combination of policy changes (within a budget) that yields the maximum possible reduction in the predicted obesity rate for a target county. |
 | **7** | **Reporting & Collaboration** | Allows analysts to save field notes and generates an executive-ready **PDF Report** for any county, detailing risk factor percentile rankings and predicted vs. actual outcomes. |
 
-## 🚀 Key Technologies
+## Key Technologies
 
 | Category | Technology | Role |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@ C-ORIS provides a comprehensive analytics workflow across 7 interconnected stage
 
 -----
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### Prerequisites
 
@@ -70,7 +70,7 @@ The application will automatically open in your default web browser (typically `
 
 -----
 
-## 👩‍💻 Usage Workflow
+##  Usage Workflow
 
 ### Step 1: Data Review (Tabs 1 & 2)
 
@@ -81,7 +81,7 @@ Verify data distributions and geospatial trends of the **Adult Obesity Rate**.
 Navigate to **3. Predictive Modeling**.
 
 1.  Use the categorized checkboxes to select your desired set of socioeconomic features.
-2.  Click **"🚀 Train Model"**. The app performs hyperparameter tuning and saves the best model, the scaler, and the feature list to the session state.
+2.  Click **"Train Model"**. The app performs hyperparameter tuning and saves the best model, the scaler, and the feature list to the session state.
 
 ### Step 3: Analysis & Prescription (Tabs 4 & 6)
 
