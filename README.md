@@ -1,6 +1,6 @@
 # County-Obesity-Risk-Intervention-System-C-ORIS-
 C-ORIS: Advanced Streamlit dashboard. Uses XGBoost to predict US county obesity risk and a Monte Carlo simulator with guardrails to prescribe optimal, constrained policy interventions for maximum health equity gains.
-# 📈 County Obesity Risk & Intervention System (C-ORIS)
+# County Obesity Risk & Intervention System (C-ORIS)
 
 C-ORIS is an advanced, AI-driven dashboard designed to combat public health disparities by analyzing the socioeconomic determinants of **Adult Obesity Rates** across US counties. Built on Streamlit, this tool provides policymakers, public health officials, and analysts with predictive insights and prescriptive recommendations for effective, targeted interventions.
 
